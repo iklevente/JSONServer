@@ -2,13 +2,13 @@
   {
     "id": 1,
     "title": "iPhone 9",
-    "description": "An apple mobile which is nothing like apple",
+    "description": "Egy almás mobil, ami nem hasonlít az almához",
     "price": 549,
     "discountPercentage": 12.96,
     "rating": 4.69,
     "stock": 94,
     "brand": "Apple",
-    "category": "smartphones",
+    "category": "Okostelefonok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
     "images": [
       "https://cdn.dummyjson.com/product-images/1/1.jpg",
@@ -21,13 +21,13 @@
   {
     "id": 2,
     "title": "iPhone X",
-    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "description": "SIM-Free, Model A19211 6.5 hüvelykes Super Retina HD kijelző OLED technológiával A12 Bionic chip",
     "price": 899,
     "discountPercentage": 17.94,
     "rating": 4.44,
     "stock": 34,
     "brand": "Apple",
-    "category": "smartphones",
+    "category": "Okostelefonok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
     "images": [
       "https://cdn.dummyjson.com/product-images/2/1.jpg",
@@ -39,26 +39,26 @@
   {
     "id": 3,
     "title": "Samsung Universe 9",
-    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "description": "Samsung új változata, ami túlmutat a Galaxyn",
     "price": 1249,
     "discountPercentage": 15.46,
     "rating": 4.09,
     "stock": 36,
     "brand": "Samsung",
-    "category": "smartphones",
+    "category": "Okostelefonok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
     "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"]
   },
   {
     "id": 4,
     "title": "OPPOF19",
-    "description": "OPPO F19 is officially announced on April 2021.",
+    "description": "Az OPPO F19 hivatalosan bemutatva 2021. áprilisában.",
     "price": 280,
     "discountPercentage": 17.91,
     "rating": 4.3,
     "stock": 123,
     "brand": "OPPO",
-    "category": "smartphones",
+    "category": "Okostelefonok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
     "images": [
       "https://cdn.dummyjson.com/product-images/4/1.jpg",
@@ -71,13 +71,13 @@
   {
     "id": 5,
     "title": "Huawei P30",
-    "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "description": "A Huawei újracsomagolt P30 Pro New Edition hivatalosan bemutatkozott tegnap Németországban, és most az eszköz az Egyesült Királyságban is megjelent.",
     "price": 499,
     "discountPercentage": 10.58,
     "rating": 4.09,
     "stock": 32,
     "brand": "Huawei",
-    "category": "smartphones",
+    "category": "Okostelefonok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
     "images": [
       "https://cdn.dummyjson.com/product-images/5/1.jpg",
@@ -88,13 +88,13 @@
   {
     "id": 6,
     "title": "MacBook Pro",
-    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "description": "A MacBook Pro 2021 mini-LED kijelzővel szeptember és november között startolhat.",
     "price": 1749,
     "discountPercentage": 11.02,
     "rating": 4.57,
     "stock": 83,
     "brand": "Apple",
-    "category": "laptops",
+    "category": "Laptopok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
     "images": [
       "https://cdn.dummyjson.com/product-images/6/1.png",
@@ -106,13 +106,13 @@
   {
     "id": 7,
     "title": "Samsung Galaxy Book",
-    "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+    "description": "A Samsung Galaxy Book S (2020) laptop Intel Lakefield chip-pel, 8 GB RAM-mal indult",
     "price": 1499,
     "discountPercentage": 4.15,
     "rating": 4.25,
     "stock": 50,
     "brand": "Samsung",
-    "category": "laptops",
+    "category": "Laptopok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
     "images": [
       "https://cdn.dummyjson.com/product-images/7/1.jpg",
@@ -124,13 +124,13 @@
   {
     "id": 8,
     "title": "Microsoft Surface Laptop 4",
-    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "description": "Stílus és sebesség. Kitűnni HD videóhívásokon a Studio mikrofonokkal. Ragadja meg az ötleteket a vibráló érintőképernyőn.",
     "price": 1499,
     "discountPercentage": 10.23,
     "rating": 4.43,
     "stock": 68,
     "brand": "Microsoft Surface",
-    "category": "laptops",
+    "category": "Laptopok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
     "images": [
       "https://cdn.dummyjson.com/product-images/8/1.jpg",
@@ -143,13 +143,13 @@
   {
     "id": 9,
     "title": "Infinix INBOOK",
-    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Szürke – 1 éves garancia",
     "price": 1099,
     "discountPercentage": 11.83,
     "rating": 4.54,
     "stock": 96,
     "brand": "Infinix",
-    "category": "laptops",
+    "category": "Laptopok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
     "images": [
       "https://cdn.dummyjson.com/product-images/9/1.jpg",
@@ -162,19 +162,181 @@
   {
     "id": 10,
     "title": "HP Pavilion 15-DK1056WM",
-    "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+    "description": "HP Pavilion 15-DK1056WM gamer Laptop 10. Gen Core i5, 8 GB, 256 GB SSD, GTX 1650 4 GB, Windows 10",
     "price": 1099,
     "discountPercentage": 6.18,
     "rating": 4.43,
     "stock": 89,
     "brand": "HP Pavilion",
-    "category": "laptops",
+    "category": "Laptopok",
     "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
     "images": [
       "https://cdn.dummyjson.com/product-images/10/1.jpg",
       "https://cdn.dummyjson.com/product-images/10/2.jpg",
       "https://cdn.dummyjson.com/product-images/10/3.jpg",
       "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Wooden PC",
+    "description": "Kiváló minőségű gamer pc!",
+    "price": 1000,
+    "discountPercentage": 10.5,
+    "rating": 4.8,
+    "stock": 15,
+    "brand": "Wooden",
+    "category": "Számítógépek",
+    "thumbnail": "https://i.imgur.com/sJWUwiO.jpeg",
+    "images": [
+      "https://i.imgur.com/sJWUwiO.jpeg",
+      "https://cdn.mos.cms.futurecdn.net/sTxniuUdUP4agaxkTGP4Z3.jpg",
+      "https://pics.craiyon.com/2023-09-25/3b804fbe44244b2cb002f4777d7972a0.webp",
+      "https://i.pinimg.com/736x/da/35/88/da35882d4e7b90fec13db0a6fd3b626a.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Microsoft Surface Pro 8 13''",
+    "description": "Egy kiváló Windows laptop",
+    "price": 1000,
+    "discountPercentage": 8.7,
+    "rating": 4.6,
+    "stock": 20,
+    "brand": "Microsoft",
+    "category": "Laptopok",
+    "thumbnail": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_91175301/mobile_786_587_png/MICROSOFT-Surface-Pro-8-13%22-256GB-WiFi-Ez%C3%BCst-Tablet-%288PQ-00005%29",
+    "images": [
+      "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_91175301/mobile_786_587_png/MICROSOFT-Surface-Pro-8-13%22-256GB-WiFi-Ez%C3%BCst-Tablet-%288PQ-00005%29",
+      "https://www.pcworld.com/wp-content/uploads/2023/04/Surface-Pro-8.jpg?quality=50&strip=all",
+      "https://laptopmedia.com/wp-content/uploads/2022/04/2-25.jpg",
+      "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ONBB?ver=4c07&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Apple Macbook M1 Pro",
+    "description": "Egy kiváló ARM-alapú macbook",
+    "price": 1000,
+    "discountPercentage": 12.3,
+    "rating": 4.9,
+    "stock": 18,
+    "brand": "Apple",
+    "category": "Laptopok",
+    "thumbnail": "https://cdn.vox-cdn.com/thumbor/8DJCNwon2vOPJm9K3H31NIugDxU=/0x0:2040x1360/2040x1360/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22046476/vpavic_4291_20201113_0366.0.jpg",
+    "images": [
+      "https://cdn.vox-cdn.com/thumbor/8DJCNwon2vOPJm9K3H31NIugDxU=/0x0:2040x1360/2040x1360/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22046476/vpavic_4291_20201113_0366.0.jpg",
+      "https://www.maplestore.in/cdn/shop/files/mbp14-spacegray-select-202110-removebg-preview_2__1_823x.png?v=1702969657",
+      "https://images.hothardware.com/contentimages/article/3163/content/4x3_1600x1200_highres-apple-macbook-pro-14-inch-2021-m1-pro-review.jpg",
+      "https://szifon.com/wp-content/uploads/2021/11/macbook-pro-14-m1-pro-4.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Apple iPhone 14",
+    "description": "A legújabb dinamikus szigettel!",
+    "price": 8999,
+    "discountPercentage": 5.2,
+    "rating": 4.7,
+    "stock": 25,
+    "brand": "Apple",
+    "category": "Okostelefonok",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/627fa3b6a736222d2161069c/Apple--iPhone-14--iPhone-14-Pro--iPhone-14-Max--iPhone-14-Pro-Max--new-iPhone-/0x0.jpg?format=jpg&crop=1835,1375,x402,y49,safe&width=960",
+    "images": [
+      "https://imageio.forbes.com/specials-images/imageserve/627fa3b6a736222d2161069c/Apple--iPhone-14--iPhone-14-Pro--iPhone-14-Max--iPhone-14-Pro-Max--new-iPhone-/0x0.jpg?format=jpg&crop=1835,1375,x402,y49,safe&width=960",
+      "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=bjlYUjk1NXN2Uy9CTWFMaXBneUF0bEthL1VsNXgveGUwQ1JqNzA0ZHAra2lYQ0tYMHd1OS9ZREtnNzFSR1owOHF2TWlpSzUzejRCZGt2SjJUNGl1VExZc3g4ZkhUVEc0bFNFL1l3MHJZd1ZBRHpuWkUzT1hyamg0dHJQakdieSs=&traceId=1",
+      "https://9to5mac.com/wp-content/uploads/sites/6/2022/01/iphone-14-news-design.jpg?quality=82&strip=all&w=1600"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Samsung Galaxy S22 Ultra",
+    "description": "A legújabb Samsung csúcsmodell 108MPX kamerával",
+    "price": 9999,
+    "discountPercentage": 15.8,
+    "rating": 4.6,
+    "stock": 22,
+    "brand": "Samsung",
+    "category": "Okostelefonok",
+    "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-s908elbgphl/gallery/ph-galaxy-s22-ultra-s908-410003-sm-s908elbgphl-533543999",
+    "images": [
+      "https://images.samsung.com/is/image/samsung/p6pim/ph/sm-s908elbgphl/gallery/ph-galaxy-s22-ultra-s908-410003-sm-s908elbgphl-533543999",
+      "https://cdn.rios.hu/dl/cnt/2022-02/174041/samsung_galaxy_s22_ultra_3.jpg",
+      "https://cdn.rios.hu/dl/cnt/2022-02/174041s.jpg",
+      "https://cdn.mos.cms.futurecdn.net/X35xUexSBhzheDhDbDCv34-1200-80.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Xiaomi 12 Pro",
+    "description": "Magas minőség megfizethető áron. Próbáld ki a legújabb Xiaomi-t most!",
+    "price": 999,
+    "discountPercentage": 18.2,
+    "rating": 4.5,
+    "stock": 30,
+    "brand": "Xiaomi",
+    "category": "Okostelefonok",
+    "thumbnail": "https://www.notebookcheck-hu.com/uploads/tx_nbc2/4_to_3_Teaser_Xiaomi_12_Pro.jpg",
+    "images": [
+      "https://www.notebookcheck-hu.com/uploads/tx_nbc2/4_to_3_Teaser_Xiaomi_12_Pro.jpg",
+      "https://i.blogs.es/a8b821/img_9725/1366_2000.jpg",
+      "https://www.cnet.com/a/img/resize/09802cb9d4bd102c04728d1cc69e2732fbf6543f/hub/2022/03/14/f137df37-ef87-4a40-a72c-f426d63c4d00/xiaomi-12-pro-review-cnet.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "https://www.techadvisor.com/wp-content/uploads/2023/07/xiaomi_12_pro_review_3.jpg?quality=50&strip=all"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "JBL Quantum One",
+    "description": "Egy gamer fejhallgatóval, amelyben immerszív térhangzás található...",
+    "price": 1000,
+    "discountPercentage": 7.3,
+    "rating": 4.8,
+    "stock": 12,
+    "brand": "JBL",
+    "category": "Számítógép kiegészítők",
+    "thumbnail": "https://technuovo.com/wp-content/uploads/2020/11/jbl-quantum-one-gaming-headset-7.jpg",
+    "images": [
+      "https://technuovo.com/wp-content/uploads/2020/11/jbl-quantum-one-gaming-headset-7.jpg",
+      "https://www.av-online.hu/pictures/gallery/jbl-quantum-one-gamer-headset_2022-03-30/big/JBL-Quantum-ONE-gamer-headset_big.jpg",
+      "https://www.av-online.hu/pictures/gallery/jbl-quantum-one-gamer-headset_2022-03-30/big/JBL-Quantum-ONE-gamer-headset-detail-mikrofon_big.jpg",
+      "https://thebit.nz/wp-content/uploads/2021/10/2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Razer DeathStalker V2",
+    "description": "Új alacsony profilú kapcsolókkal egy karcsú, tartós tokon belül, élményt nyújtva az ultra-reaktív játékhoz hosszan tartó ergonomikus használatra tervezve.",
+    "price": 2000,
+    "discountPercentage": 9.1,
+    "rating": 4.7,
+    "stock": 18,
+    "brand": "Razer",
+    "category": "Számítógép kiegészítők",
+    "thumbnail": "https://www.pcworld.com/wp-content/uploads/2022/07/razer-deathstalker-tkl.jpg?quality=50&strip=all&w=1024",
+    "images": [
+      "https://www.pcworld.com/wp-content/uploads/2022/07/razer-deathstalker-tkl.jpg?quality=50&strip=all&w=1024",
+      "https://reviewed-com-res.cloudinary.com/image/fetch/s--3ck-QjXb--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,h_668,q_auto,w_1187/https://reviewed-production.s3.amazonaws.com/1661538764000/razer-deathstalker-v2-pro-review-hero.png",
+      "https://sm.ign.com/ign_me/screenshot/default/img-4218_qm75.jpg",
+      "https://assets3.razerzone.com/hSNI-b488pX3Z6ME7_-NHNqlBVY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb8%2Fh82%2F9422672429086%2F220726-deathstalker-v2-pro-1500x1000-6.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Corsair Sabre RGB Pro",
+    "description": "A CORSAIR SABRE RGB PRO gamer egér profik visszajelzésével készült, egy ultrakönnyű 74g...",
+    "price": 2000,
+    "discountPercentage": 6.5,
+    "rating": 4.9,
+    "stock": 24,
+    "brand": "Corsair",
+    "category": "Számítógép kiegészítők",
+    "thumbnail": "https://i.imgur.com/HalrjMk.jpg",
+    "images": [
+      "https://i.imgur.com/HalrjMk.jpg",
+      "https://i.ytimg.com/vi/Ls2bkVfnrsg/maxresdefault.jpg",
+      "https://i.rtings.com/assets/products/0LilN65S/corsair-sabre-rgb-pro-wireless/in-the-box-large.jpg?format=auto",
+      "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/corsair-sabre-rgb-pro-champion-series-gaming-mouse-gamerant-deals-feature.jpg"
     ]
   }
 ]
