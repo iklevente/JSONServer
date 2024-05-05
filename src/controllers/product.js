@@ -31,10 +31,7 @@ controller.getAllProducts = ({ limit, skip, select }) => {
 // search products
 controller.searchProducts = ({ limit, skip, select, q: searchQuery }) => {
   let [...products] = frozenData.products.filter(p => {
-    return (
-      p.title.toLowerCase().includes(searchQuery) ||
-      p.description.toLowerCase().includes(searchQuery)
-    );
+    return p.category.toLowerCase().includes(searchQuery);
   });
   const total = products.length;
 
